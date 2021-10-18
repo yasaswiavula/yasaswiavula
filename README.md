@@ -3,7 +3,7 @@
 #### 
 <p align="center">
   <samp>
-    I'm <a href="https://www.linkedin.com/in/yasaswiavula/">yasaswi</a>, final year B.tech student who's from Information Technology stream going for IT sector;) 
+    I'm <a href="https://www.linkedin.com/in/yasaswiavula/">yasaswi</a>, a Masters student from CMU major in Computer Science. 
   </samp>
 </p>
 
