@@ -1,9 +1,9 @@
-# Hello there<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80px" >
+# Hello there!<img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="80px" >
 
 #### 
 <p align="center">
   <samp>
-    I'm <a href="https://www.linkedin.com/in/yasaswiavula/">yasaswi</a>, a Masters student from CMU major in Computer Science. 
+    Welcome <a href="https://www.linkedin.com/in/yasaswiavula/">yasaswi</a>, to my Profile, Here you can find my new and old repositories mostly the previous projects and fun coding practices. 
   </samp>
 </p>
 
