@@ -3,7 +3,7 @@
 #### 
 <p align="center">
   <samp>
-    Welcome to<a href="https://www.linkedin.com/in/yasaswiavula/">yasaswi's</a>, Profile. Here you can find many new and old repositories mostly filled with the previous projects and fun coding practices. 
+    Welcome to <a href="https://www.linkedin.com/in/yasaswiavula/">yasaswi's</a>, Profile. Here you can find many new and old repositories mostly filled with the previous projects and fun coding practices. 
   </samp>
 </p>
 
