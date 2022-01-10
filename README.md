@@ -4,6 +4,11 @@
 <p align="center">
   <samp>
     Welcome to <a href="https://www.linkedin.com/in/yasaswiavula/">yasaswi's</a>, Profile. Here you can find many new and old repositories mostly filled with the previous projects and fun coding practices. 
+    
+    Fun facts:
+    #1 You can call Yasaswi as 'SSV' it's the same pronounciation.
+    #2 Do you know, Yasaswi is as old as Earth;) psst! they share the same special day(Earth day)
+    #3 Originally from a place where Helium(He) was first discovered.
   </samp>
 </p>
 
