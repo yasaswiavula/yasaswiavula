@@ -8,7 +8,7 @@
     Fun facts:
     #1 You can call Yasaswi as 'SSV' it's the same pronounciation.
     #2 Do you know, Yasaswi is as old as Earth;) psst! they share the same special day(Earth day)
-    #3 Originally from a place where Helium(He) was first discovered.
+    #3 Yasaswi is Originally from a place where Helium(He) was first discovered.
   </samp>
 </p>
 
