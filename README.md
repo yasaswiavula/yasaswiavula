@@ -7,8 +7,8 @@
     Welcome to my Profile. Here you can find all my previous projects and fun coding practices😄. 
     
     ⚡ You can call me as 'SSV' it's the same pronounciation.
-    ⚡ Do you know, Yasaswi is as old as Earth;) psst! they share the same Birthday(Earth day)
-    ⚡ Yasaswi is Originally from a place where Helium(He) was first discovered.
+    ⚡ Do you know, when i say I'm as old as Earth. You have to believe me;) psst! we share the same Birthday(Earth day)
+    ⚡ I'm Originally from a place where Helium(He) was first discovered. 
     
     💬 Ask me about Data, Plants and Painting...
     
