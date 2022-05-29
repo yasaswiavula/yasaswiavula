@@ -3,7 +3,8 @@
 #### 
 <p align="center">
   <samp>
-     Welcome to my Profile. Here you can find all my previous projects and fun coding practices😄. 
+    
+    Welcome to my Profile. Here you can find all my previous projects and fun coding practices😄. 
     
     ⚡ You can call me as 'SSV' it's the same pronounciation.
     ⚡ Do you know, Yasaswi is as old as Earth;) psst! they share the same Birthday(Earth day)
