@@ -3,12 +3,18 @@
 #### 
 <p align="center">
   <samp>
-    Welcome to <a href="https://www.linkedin.com/in/yasaswiavula/">yasaswi's</a> Profile. Here you can find many new and old repositories mostly filled with the previous projects and fun coding practices. 
+    😄 Welcome to <a href="https://www.linkedin.com/in/yasaswiavula/">my</a> Profile. Here you can find all my previous projects and fun coding practices. 
     
-    Fun facts:
-    #1 You can call Yasaswi as 'SSV' it's the same pronounciation.
-    #2 Do you know, Yasaswi is as old as Earth;) psst! they share the same special day(Earth day)
-    #3 Yasaswi is Originally from a place where Helium(He) was first discovered.
+    ⚡ You can call me as 'SSV' it's the same pronounciation.
+    ⚡ Do you know, Yasaswi is as old as Earth;) psst! they share the same Birthday(Earth day)
+    ⚡ Yasaswi is Originally from a place where Helium(He) was first discovered.
+    
+    💬 Ask me about Data, Plants and Painting...
+    
+    🔭 I’m currently working on Deep Learning project called Deepart.
+    
+    🌱 I’m currently learning DataScience, ML and AI
+    
   </samp>
 </p>
 
