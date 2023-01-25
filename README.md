@@ -8,13 +8,13 @@
     
     ⚡ You can call me as 'SSV' it's the same pronounciation.
     ⚡ Do you know, when i say I'm as old as Earth. You have to believe me;) psst! we share the same Birthday(Earth day)
-    ⚡ I'm Originally from a place where Helium(He) was first discovered. 
+    ⚡ 
     
     💬 Ask me about Data, Plants and Painting...
     
-    🔭 I’m currently working on Deep Learning project called Deepart.
+    🔭 I’m towards Cloud, DataScience and Astronomy.
     
-    🌱 I’m currently learning DataScience, ML and AI
+    🌱 I’m currently involved with DataScience, ML and AI
     
   </samp>
 </p>
