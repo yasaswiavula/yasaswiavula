@@ -16,6 +16,8 @@
     
     🌱 I’m currently involved with DataScience, ML and AI
     
+    ⚡ Want to know more about me, [click here](https://drive.google.com/file/d/1qHySjWlcZhhVHLMUo38gN_Uz_VTCyPyH/view?usp=sharing)
+    
   </samp>
 </p>
 
