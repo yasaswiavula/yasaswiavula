@@ -8,7 +8,6 @@
     
     ⚡ You can call me as 'SSV' it's the same pronounciation.
     ⚡ Do you know, when i say I'm as old as Earth. You have to believe me;) psst! we share the same Special day(Earth day)
-    ⚡ 
     
     💬 Ask me about Data, Plants and Painting...
     
