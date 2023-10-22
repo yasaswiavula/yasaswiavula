@@ -15,7 +15,7 @@
     
     🌱 I’m currently involved with DataScience, ML and AI
     
-    ✨ Want to know more about me, click [here](https://www.linkedin.com/in/yasaswiavula/).
+    ✨ Want to know more about me, click here - https://www.linkedin.com/in/yasaswiavula/.
      
   </samp>
 </p>
