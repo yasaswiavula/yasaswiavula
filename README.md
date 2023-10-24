@@ -15,7 +15,13 @@
     
     🌱 I’m currently involved with DataScience, ML and AI
     
-    ✨ Want to know more about me, click here - https://www.linkedin.com/in/yasaswiavula/
+    ✨ Want to know more about me, navigate here
+     
+    📫 my Professional blog - https://www.linkedin.com/in/yasaswiavula/
+    
+    🎨 my art blog - https://www.instagram.com/yasani_224/
+
+    👩‍💻 my medium blog - https://medium.com/@yasaswiavula
      
   </samp>
 </p>
